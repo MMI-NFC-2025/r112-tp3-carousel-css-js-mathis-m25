@@ -1,4 +1,4 @@
-// *** CAROUSEL ***
+// ** CAROUSEL **
 
 // Cibler les éléments nécessaires
 const carousel = document.querySelector(".carousel__container");
